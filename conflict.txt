@@ -1,1 +1,2 @@
-hello from both branches 
+hello from branch1
+
